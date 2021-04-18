@@ -99,7 +99,7 @@ var result = {
   'ENFJ': {'img':'<img src="img/noodle.png" class="mt-5" style="width: 300px;">','mbti': 'ENFJ', 'explain': '매끄러운 언변, 누들떡볶이'},
   'ENFP': {'img':'<img src="img/ramyun.png" class="mt-5" style="width: 300px;">','mbti': 'ENFP', 'explain': '떡볶이에 왜 떡이 꼭 있어야 돼? 라볶이'},
   'ISTJ': {'img':'<img src="img/oil.png" class="mt-5" style="width: 300px;">','mbti': 'ISTJ', 'explain': '클래식한 떡볶이의 정석 기름떡볶이'},
-  'ISFJ': {'img':'<img src="img/ricedeock.png" class="mt-5" style="width: 300px;">','mbti': 'ISFJ', 'explain': '묵묵하고 꾸준한 가래떡 떡볶이'},
+  'ISFJ': {'img':'<img src="img/riceddeock.png" class="mt-5" style="width: 300px;">','mbti': 'ISFJ', 'explain': '묵묵하고 꾸준한 가래떡 떡볶이'},
   'ESTJ': {'img':'<img src="img/jaws.png" class="mt-5" style="width: 300px;">','mbti': 'ESTJ', 'explain': '실용적인 프랜차이즈, 상어떡볶이'},
   'ESFJ': {'img':'<img src="img/cup.png" class="mt-5" style="width: 300px;">','mbti': 'ESFJ', 'explain': '학교 끝나고 같이 놀래? 컵볶이'},
   'ISTP': {'img':'<img src="img/jjajang.png" class="mt-5" style="width: 300px;">','mbti': 'ISTP', 'explain': '어디에나 잘 어울리는, 짜장떡볶이'},
