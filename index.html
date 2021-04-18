@@ -80,7 +80,8 @@
 
           var result_title = document.querySelector('#mymbti').textContent;
           var result_description = document.querySelector('#explain').textContent;
-          var resut_img = document.querySelector('#result_img > img').getAttribute('src');
+          var get_img = document.querySelector('#img').getAttribute('src');
+          var result_img = `https://naketer2021.github.io/mbti-ddeokbokki/${get_img}`;
 
       Kakao.Link.sendDefault({
         objectType: 'feed',

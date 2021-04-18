@@ -90,22 +90,22 @@ var testNum = {
 
 //결과
 var result = {
-  'INTJ': {'img':'<img src="img/cream.png" class="mt-5" style="width: 300px;">', 'mbti': 'INTJ', 'explain': '떡볶이의 새로운 비전 크림떡볶이'},
-  'INTP': {'img':'<img src="img/hothot.png" class="mt-5" style="width: 300px;">','mbti': 'INTP', 'explain': '떡볶이계의 매콤한 비평가 동대문떡볶이'},
-  'ENTJ': {'img':'<img src="img/school.png"class="mt-5" style="width: 300px;">','mbti': 'ENTJ', 'explain': '학교 앞 대장 분식집 떡볶이'},
-  'ENTP': {'img':'<img src="img/rose.png" class="mt-5" style="width: 300px;"">','mbti': 'ENTP', 'explain': '획기적인 발명가! 로제떡볶이'},
-  'INFJ': {'img':'<img src="img/soup.png" style="width: 300px;">','mbti': 'INFJ', 'explain': '투명한듯 칼칼한 국물떡볶이'},
-  'INFP': {'img':'<img src="img/royal.png" class="mt-5"  style="width: 300px;">','mbti': 'INFP', 'explain': '맵지 않아도 괜찮아. 남녀노소 궁중떡볶이'},
-  'ENFJ': {'img':'<img src="img/noodle.png" class="mt-5" style="width: 300px;">','mbti': 'ENFJ', 'explain': '매끄러운 언변, 누들떡볶이'},
-  'ENFP': {'img':'<img src="img/ramyun.png" class="mt-5" style="width: 300px;">','mbti': 'ENFP', 'explain': '떡볶이에 왜 떡이 꼭 있어야 돼? 라볶이'},
-  'ISTJ': {'img':'<img src="img/oil.png" class="mt-5" style="width: 300px;">','mbti': 'ISTJ', 'explain': '클래식한 떡볶이의 정석 기름떡볶이'},
-  'ISFJ': {'img':'<img src="img/riceddeock.png" class="mt-5" style="width: 300px;">','mbti': 'ISFJ', 'explain': '묵묵하고 꾸준한 가래떡 떡볶이'},
-  'ESTJ': {'img':'<img src="img/jaws.png" class="mt-5" style="width: 300px;">','mbti': 'ESTJ', 'explain': '실용적인 프랜차이즈, 상어떡볶이'},
-  'ESFJ': {'img':'<img src="img/cup.png" class="mt-5" style="width: 300px;">','mbti': 'ESFJ', 'explain': '학교 끝나고 같이 놀래? 컵볶이'},
-  'ISTP': {'img':'<img src="img/jjajang.png" class="mt-5" style="width: 300px;">','mbti': 'ISTP', 'explain': '어디에나 잘 어울리는, 짜장떡볶이'},
-  'ISFP': {'img':'<img src="img/homemade.png" class="mt-5" style="width: 300px;">','mbti': 'ISFP', 'explain': '삼삼하지만 종종 생각나는, 홈메이드 떡볶이'},
-  'ESTP': {'img':'<img src="img/stick.png" class="mt-5" style="width: 300px;">','mbti': 'ESTP', 'explain': '떡볶이도 먹고 싶고 피카츄도 먹고 싶은 나는? 떡꼬치'},
-  'ESFP': {'img':'<img src="img/everything.png" class="mt-5" style="width: 300px;">','mbti': 'ESFP', 'explain': '우리는 모두 친구 즉석떡볶이'},
+  'INTJ': {'img':'<img src="img/cream.png" id="img" class="mt-5" style="width: 300px;">', 'mbti': 'INTJ', 'explain': '떡볶이의 새로운 비전 크림떡볶이'},
+  'INTP': {'img':'<img src="img/hothot.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'INTP', 'explain': '떡볶이계의 매콤한 비평가 동대문떡볶이'},
+  'ENTJ': {'img':'<img src="img/school.png" id="img"class="mt-5" style="width: 300px;">','mbti': 'ENTJ', 'explain': '학교 앞 대장 분식집 떡볶이'},
+  'ENTP': {'img':'<img src="img/rose.png" id="img" class="mt-5" style="width: 300px;"">','mbti': 'ENTP', 'explain': '획기적인 발명가! 로제떡볶이'},
+  'INFJ': {'img':'<img src="img/soup.png" id="img" style="width: 300px;">','mbti': 'INFJ', 'explain': '투명한듯 칼칼한 국물떡볶이'},
+  'INFP': {'img':'<img src="img/royal.png" id="img" class="mt-5"  style="width: 300px;">','mbti': 'INFP', 'explain': '맵지 않아도 괜찮아. 남녀노소 궁중떡볶이'},
+  'ENFJ': {'img':'<img src="img/noodle.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ENFJ', 'explain': '매끄러운 언변, 누들떡볶이'},
+  'ENFP': {'img':'<img src="img/ramyun.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ENFP', 'explain': '떡볶이에 왜 떡이 꼭 있어야 돼? 라볶이'},
+  'ISTJ': {'img':'<img src="img/oil.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ISTJ', 'explain': '클래식한 떡볶이의 정석 기름떡볶이'},
+  'ISFJ': {'img':'<img src="img/riceddeock.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ISFJ', 'explain': '묵묵하고 꾸준한 가래떡 떡볶이'},
+  'ESTJ': {'img':'<img src="img/jaws.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ESTJ', 'explain': '실용적인 프랜차이즈, 상어떡볶이'},
+  'ESFJ': {'img':'<img src="img/cup.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ESFJ', 'explain': '학교 끝나고 같이 놀래? 컵볶이'},
+  'ISTP': {'img':'<img src="img/jjajang.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ISTP', 'explain': '어디에나 잘 어울리는, 짜장떡볶이'},
+  'ISFP': {'img':'<img src="img/homemade.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ISFP', 'explain': '삼삼하지만 종종 생각나는, 홈메이드 떡볶이'},
+  'ESTP': {'img':'<img src="img/stick.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ESTP', 'explain': '떡볶이도 먹고 싶고 피카츄도 먹고 싶은 나는? 떡꼬치'},
+  'ESFP': {'img':'<img src="img/everything.png" id="img" class="mt-5" style="width: 300px;">','mbti': 'ESFP', 'explain': '우리는 모두 친구 즉석떡볶이'},
 };
 
 //테스트시작
