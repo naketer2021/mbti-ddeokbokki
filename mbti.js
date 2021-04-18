@@ -98,7 +98,7 @@ var result = {
   'INFP': {'img':'<img src="https://recipe1.ezmember.co.kr/cache/recipe/2017/05/10/1b6d4020fc0c24370a624eddae427cdf1.jpg" class="mt-5"  style="width: 300px;">','mbti': 'INFP', 'explain': '맵지 않아도 괜찮아. 남녀노소 궁중떡볶이'},
   'ENFJ': {'img':'<img src="https://lh3.googleusercontent.com/proxy/W_vEyT8rCMiflHkrm1wB6u2AH1o9ZyOoj6ww6mfzIPn28x0UVo79W_GyYI64KcxaVkUsbXRUoSzjokSc4aVy78OKMQQMbulbZTCk3f5kxyeh2vXHHGM" class="mt-5" style="width: 300px;">','mbti': 'ENFJ', 'explain': '매끄러운 언변, 누들떡볶이'},
   'ENFP': {'img':'<img src="https://recipe1.ezmember.co.kr/cache/recipe/2018/03/04/ba55307500f38b5b93e75f479290cd711.jpg" class="mt-5" style="width: 300px;">','mbti': 'ENFP', 'explain': '떡볶이에 왜 떡이 꼭 있어야 돼? 라볶이'},
-  'ISTJ': {'img':'<img src="https://www.yupdduk.com/images/menu/2020_hotmenuY01.png" class="mt-5" style="width: 300px;">','mbti': 'ISTJ', 'explain': '클래식한 떡볶이의 정석 기름떡볶이'},
+  'ISTJ': {'img':'<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPonbxDCPkEU3xhjPuEL-7g36P7dhscvwbkA&usqp=CAU" class="mt-5" style="width: 300px;">','mbti': 'ISTJ', 'explain': '클래식한 떡볶이의 정석 기름떡볶이'},
   'ISFJ': {'img':'<img src="https://s3-ap-northeast-1.amazonaws.com/dcreviewsresized/20210402033645688_photo_5ad86b50a6d2.jpg" class="mt-5" style="width: 300px;">','mbti': 'ISFJ', 'explain': '묵묵하고 꾸준한 가래떡 떡볶이'},
   'ESTJ': {'img':'<img src="https://lh3.googleusercontent.com/proxy/oGxEg6HCrME0s-B8w8r4jWhuPwLNxOE_Y2fg8h9ct4OykWk-7IxMJ1azGNdnGKQT34zwU03r0Fl7nZeKOc6EG0MvFetEGsyYObpo8s9uDYLHaA" class="mt-5" style="width: 300px;">','mbti': 'ESTJ', 'explain': '실용적인 프랜차이즈, 상어떡볶이'},
   'ESFJ': {'img':'<img src="https://cdn.crowdpic.net/list-thumb/thumb_l_E54128D72667B788B6899908E91CF139.jpg" class="mt-5" style="width: 300px;">','mbti': 'ESFJ', 'explain': '학교 끝나고 같이 놀래? 컵볶이'},
