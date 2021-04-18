@@ -103,7 +103,7 @@ var result = {
   'ESTJ': {'img':'<img src="img/jaws.png" class="mt-5" style="width: 300px;">','mbti': 'ESTJ', 'explain': '실용적인 프랜차이즈, 상어떡볶이'},
   'ESFJ': {'img':'<img src="img/cup.png" class="mt-5" style="width: 300px;">','mbti': 'ESFJ', 'explain': '학교 끝나고 같이 놀래? 컵볶이'},
   'ISTP': {'img':'<img src="img/jjajang.png" class="mt-5" style="width: 300px;">','mbti': 'ISTP', 'explain': '어디에나 잘 어울리는, 짜장떡볶이'},
-  'ISFP': {'img':'<img src="img/hommade.png" class="mt-5" style="width: 300px;">','mbti': 'ISFP', 'explain': '삼삼하지만 종종 생각나는, 홈메이드 떡볶이'},
+  'ISFP': {'img':'<img src="img/homemade.png" class="mt-5" style="width: 300px;">','mbti': 'ISFP', 'explain': '삼삼하지만 종종 생각나는, 홈메이드 떡볶이'},
   'ESTP': {'img':'<img src="img/stick.png" class="mt-5" style="width: 300px;">','mbti': 'ESTP', 'explain': '떡볶이도 먹고 싶고 피카츄도 먹고 싶은 나는? 떡꼬치'},
   'ESFP': {'img':'<img src="img/everything.png" class="mt-5" style="width: 300px;">','mbti': 'ESFP', 'explain': '우리는 모두 친구 즉석떡볶이'},
 };
