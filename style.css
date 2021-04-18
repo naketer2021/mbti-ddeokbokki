@@ -1,3 +1,8 @@
+
+h1,h2,h3,h4,h5,p{
+  font-family: 'Gamja Flower', cursive;
+}
+
 #test {
   display:none;
 }
@@ -8,6 +13,7 @@
 
 button {
   width: 95%;
+  font-family: 'Gamja Flower', cursive;
 }
 
 #img {
